@@ -8,6 +8,7 @@
       }
 
 ## const radioButtons = document.querySelectorAll('input[name="inputBase"]');
+        const radioButtons = document.querySelectorAll('input[name="inputBase"]');
 
 
 ##       function updateBadge() {
